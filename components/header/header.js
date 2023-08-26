@@ -1,5 +1,5 @@
 import React from "react";
-import MenuDropdown from "@/Components/menu/menu";
+import MenuDropdown from "@/components/menu/menu";
 import Link from "next/link";
 
 const Header = () => {

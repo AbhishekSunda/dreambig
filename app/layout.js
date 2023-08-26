@@ -1,8 +1,8 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import { ReduxProvider } from '@/Redux/ReduxProvider'
-import Header from '../Components/header/header'
-import Footer from '@/Components/footer/footer'
+import Header from '../components/header/header'
+import Footer from '@/components/footer/footer'
 
 const inter = Inter({ subsets: ['latin'] })
 

@@ -1,5 +1,5 @@
 import React from "react";
-import LoginBanner from "@/Components/topsection/loginbanner";
+import LoginBanner from "@/components/topsection/loginbanner";
 const TopSection = () => {
     return <LoginBanner />
 }
